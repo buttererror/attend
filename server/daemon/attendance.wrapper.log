@@ -1,0 +1,2 @@
+2019-11-23 03:04:41 - Starting C:\laragon\bin\nodejs\node-v12\node.exe  --harmony D:\projects\attend\node_modules\node-windows\lib\wrapper.js --file D:\projects\attend\server\index.js --log "attendance wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-11-23 03:04:41 - Started 2540
